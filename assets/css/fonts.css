@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'HelveticaLight';
+    src: url('../../fonts/helvetica/HelveticaNeueCyr-Light.otf');
+}
+
+@font-face {
+    font-family: 'HelveticaRegular';
+    src: url('../../fonts/helvetica/HelveticaRegular.ttf');
+}
+
+@font-face {
+    font-family: 'HelveticaBold';
+    src: url('../../fonts/helvetica/HelveticaNeueCyr-Bold.ttf');
+}
+
+
+@font-face {
+    font-family: 'Verdana';
+    src: url('../../fonts/verdana/verdana.ttf');
+}
+
+@font-face {
+    font-family: 'HelveticaSemiBold';
+    src: url('../../fonts/helvetica/HelveticaNeueCyr-Bold.eot');
+    src: url('../../fonts/helvetica/HelveticaNeueCyr-Bold.woff2') format('woff2'),
+    url('../../fonts/helvetica/HelveticaNeueCyr-Bold.woff') format('woff'),
+    url('../../fonts/helvetica/HelveticaNeueCyr-Bold.ttf') format('truetype'),
+    url('../../fonts/helvetica/HelveticaNeueCyr-Bold.svg#HelveticaNeueCyr-Bold') format('svg'),
+    url('../../fonts/helvetica/HelveticaNeueCyr-Bold.eot?#iefix') format('embedded-opentype');
+    font-style: normal;
+}
+

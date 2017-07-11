@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9e6c2ca-d1f5-4a13-a501-6ae26abd0308" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/._js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/css/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/js/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/fonts/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/fonts/helvetica/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/fonts/helvetica/._HelveticaNeueCyr-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/fonts/helvetica/._HelveticaNeueCyr-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/fonts/helvetica/._HelveticaNeueCyr-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/fonts/helvetica/._HelveticaNeueCyr-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/fonts/verdana/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/fonts/verdana/._verdana.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/img/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/img/._arr_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/img/._promo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/img/._searchicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/img/._star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/img/topsales/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/img/topsales/._arrow_slide_left_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/img/topsales/._arrow_slide_right_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/img/topsales/._h3_icon_balans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/img/topsales/._h3_icon_termoreg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/img/topsales/._h3_icon_water.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Light.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Medium.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/verdana/verdana.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arr_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrow-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrow-menu-to-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrow-menu-to-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/category/arrow-left-h2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/category/icon-category-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/category/left-menu-checkbox-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/category/left-menu-checkbox-disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/company/first-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/company/img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/company/second-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/company/third-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/2d3d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/blueprints.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/chekbox-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/chekbox-disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/dynalux_block_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/dynalux_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/features-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/nav-left-arrow-to-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/nav-left-arrow-to-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/nav-left-inner-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/radio-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/radio-disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynalux/small-icon-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lk/item-header-arrow-to-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lk/item-header-arrow-to-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lk/mini-item-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-right-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/popup/img-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/promo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/searchicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/arrow_slider_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/arrow_slider_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/arrow_slide_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/arrow_slide_left_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/arrow_slide_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/arrow_slide_right_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/balan_clapan3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/balans_clapan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/balans_clapan2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/h2_icon_balans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/h2_icon_termoreg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/h2_icon_water.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/h3_icon_balans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/h3_icon_termoreg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/h3_icon_water.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/h4-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/p_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/p_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/p_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/p_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/reg_clapan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/term-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/term-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/term-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/topsales/term-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/trimas.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/css/._slick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/js/._bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/js/._jquery-1.12.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/js/._jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/js/._jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/js/._owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/js/._plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/js/._slick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/assets/js/._slick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__MACOSX/fonts/helvetica/._HelveticaNeueCyr-Bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alphabet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/equalize.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/func.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/media.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/slick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-1.12.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/slick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/slick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/func.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynalux_about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynalux_documents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynalux_price.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/helvetica/HelveticaNeueCyr-Bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lk_address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lk_man.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lk_orders.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/popup.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sbubnom</find>
+      <find>#author</find>
+      <find>copyright</find>
+      <find>body</find>
+      <find>alphabet&quot;</find>
+      <find>alphabet</find>
+      <find>nav-left-item-inner-items-p</find>
+      <find>table-item-category</find>
+      <find>nav-left-item-disable</find>
+      <find>nav-left-item</find>
+      <find>nav-left-item-active</find>
+      <find>slider-child-image</find>
+      <find>photo-item-link-download</find>
+      <find>nav-left-item-inner-item-checkbox</find>
+      <find>count-checkbox-item</find>
+      <find>nav-content-item</find>
+      <find>.content</find>
+      <find>calt-o-ac</find>
+      <find>count-circuit</find>
+      <find>add-to-cart</find>
+      <find>slider-item-right</find>
+      <find>product-slider-item</find>
+      <find>h4</find>
+      <find>#slider</find>
+      <find>address-block-form-item</find>
+      <find>address-block-form-button</find>
+      <find>child</find>
+      <find>table-lk</find>
+      <find>child-table-lk</find>
+      <find>#wrapper</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>a</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\www\trimas\assets\less</dir>
+      <dir>C:\www\trimas\assets\js</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/less/func.less" />
+        <option value="$PROJECT_DIR$/alphabet.html" />
+        <option value="$PROJECT_DIR$/catalog.html" />
+        <option value="$PROJECT_DIR$/dynalux_about.html" />
+        <option value="$PROJECT_DIR$/dynalux_documents.html" />
+        <option value="$PROJECT_DIR$/dynalux_price.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lk_address.html" />
+        <option value="$PROJECT_DIR$/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/lk_orders.html" />
+        <option value="$PROJECT_DIR$/assets/less/main.less" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1537" />
+    <option name="height" value="1212" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prigorod20" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#PerlConfigurationType" factoryName="Perl" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" />
+      <option name="compileTimeBreakpointsEnabled" value="false" />
+      <option name="consoleCharset" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="nonInteractiveModeEnabled" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="perlParameters" value="" />
+      <option name="programParameters" />
+      <option name="scriptPath" />
+      <option name="useAlternativeSdk" value="false" />
+      <option name="workingDirectory" />
+      <option name="SCRIPT_PATH" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="PERL_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENVS">
+        <map />
+      </option>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="CHARSET" />
+      <option name="USE_ALTERNATIVE_SDK" value="false" />
+      <option name="ALTERNATIVE_SDK_PATH" />
+      <option name="scriptCharset" value="utf8" />
+      <option name="startMode" value="RUN" />
+      <option name="isNonInteractiveModeEnabled" value="false" />
+      <option name="isCompileTimeBreakpointsEnabled" value="false" />
+      <option name="initCode" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9e6c2ca-d1f5-4a13-a501-6ae26abd0308" name="Default" comment="" />
+      <created>1499609709894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499609709894</updated>
+      <workItem from="1499609711224" duration="21933000" />
+      <workItem from="1499676824536" duration="24000" />
+      <workItem from="1499676859073" duration="673000" />
+      <workItem from="1499792535727" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22766000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1537" height="1212" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17779246" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33024976" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980484" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/less/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4374">
+          <caret line="243" column="28" lean-forward="false" selection-start-line="243" selection-start-column="28" selection-end-line="243" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphabet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="125" column="46" lean-forward="false" selection-start-line="125" selection-start-column="46" selection-end-line="125" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lk_orders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3168">
+          <caret line="176" column="65" lean-forward="false" selection-start-line="176" selection-start-column="40" selection-end-line="176" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/less/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29946">
+          <caret line="1302" column="15" lean-forward="false" selection-start-line="1302" selection-start-column="15" selection-end-line="1302" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lk_orders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4048">
+          <caret line="176" column="65" lean-forward="false" selection-start-line="176" selection-start-column="40" selection-end-line="176" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5428">
+          <caret line="236" column="36" lean-forward="false" selection-start-line="236" selection-start-column="36" selection-end-line="236" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/less/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23436">
+          <caret line="1302" column="15" lean-forward="true" selection-start-line="1302" selection-start-column="15" selection-end-line="1302" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lk_orders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3168">
+          <caret line="176" column="65" lean-forward="false" selection-start-line="176" selection-start-column="40" selection-end-line="176" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4248">
+          <caret line="236" column="36" lean-forward="false" selection-start-line="236" selection-start-column="36" selection-end-line="236" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lk_man.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/less/func.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynalux_about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="233" column="40" lean-forward="false" selection-start-line="233" selection-start-column="40" selection-end-line="235" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynalux_documents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="237" column="85" lean-forward="false" selection-start-line="237" selection-start-column="85" selection-end-line="237" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="362" column="0" lean-forward="false" selection-start-line="346" selection-start-column="24" selection-end-line="362" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynalux_price.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="290" column="59" lean-forward="false" selection-start-line="290" selection-start-column="59" selection-end-line="290" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lk_address.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="158" column="87" lean-forward="false" selection-start-line="158" selection-start-column="87" selection-end-line="158" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3168">
+          <caret line="176" column="65" lean-forward="false" selection-start-line="176" selection-start-column="40" selection-end-line="176" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lk_orders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4374">
+          <caret line="243" column="28" lean-forward="false" selection-start-line="243" selection-start-column="28" selection-end-line="243" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphabet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="125" column="46" lean-forward="false" selection-start-line="125" selection-start-column="46" selection-end-line="125" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/less/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
