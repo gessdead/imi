@@ -149,12 +149,16 @@ header #header-auth-link {
   clip-path: polygon(10% 0, 100% 0, 100% 100%, 0% 100%);
 }
 header #header-auth-link a {
+  transition: 0.2s;
   font-family: 'HelveticaBold';
   color: white;
-  border-bottom: 2px dotted;
+  border-bottom: 2px dotted #fff;
   position: relative;
   left: 7px;
   top: -1px;
+}
+header #header-auth-link a:hover {
+  border-bottom: 2px dotted transparent;
 }
 header #header-lk-menu {
   background: #dc7300;
@@ -187,9 +191,13 @@ header #city-header {
   color: #666666;
 }
 header #city-header > a {
+  transition: 0.2s;
   font-family: 'HelveticaBold';
   color: #dc7300;
   border-bottom: 1px dotted #dc7300;
+}
+header #city-header > a:hover {
+  border-bottom: 1px dotted transparent;
 }
 header #city-header:after {
   content: url(../../img/arrow-icon.png);
@@ -298,7 +306,6 @@ nav .home-li:nth-child(2):hover,
 nav .home-li:nth-child(3):hover,
 nav .home-li:nth-child(4):hover {
   background-color: #dc7300;
-  border-right: 2px #dc7300 solid;
   transition: 0.2s;
 }
 nav .home-li:nth-child(1):hover:after,
@@ -794,12 +801,16 @@ input.search-inp:-ms-input-placeholder {
   text-align: right;
 }
 .liders a {
+  transition: 0.2s;
   position: relative;
   top: calc(50% - 6px);
   right: 2px;
   color: #da721d;
   font-family: HelveticaLight;
   font-size: 14px;
+}
+.liders a:hover {
+  color: #838383;
 }
 .liders .container-fluid {
   padding: 0;
@@ -862,6 +873,7 @@ input.search-inp:-ms-input-placeholder {
   position: relative;
 }
 .liders .product-liders .product-lider .product-slider-item {
+  transition: 0.2s;
   background-color: white;
   vertical-align: top;
   display: inline-block;
@@ -916,6 +928,29 @@ input.search-inp:-ms-input-placeholder {
   justify-content: center;
   align-items: center;
   padding: 0 20px 0 53px;
+}
+.liders .product-liders .product-lider .product-slider-item .head-li h3 a {
+  font-family: HelveticaLight;
+  font-size: 12px;
+  color: white;
+  opacity: 1;
+  line-height: 14px;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  min-height: auto;
+  transition: 0.2s;
+  top: auto;
+  right: auto;
+  outline: none;
+}
+.liders .product-liders .product-lider .product-slider-item .head-li h3 a:before {
+  display: none;
+}
+.liders .product-liders .product-lider .product-slider-item .head-li h3 a:hover {
+  opacity: .8;
 }
 .liders .product-liders .product-lider .product-slider-item a {
   font-family: 'HelveticaSemiBold';
@@ -1365,10 +1400,15 @@ footer #footer-copyright #author a span {
   padding-right: 20px;
 }
 .address-block .address-block-header-maplink a {
+  transition: 0.2s;
   color: #7d7d7d;
   text-decoration: none;
   border-bottom: 1px #7d7d7d solid;
   font-family: 'HelveticaRegular';
+  outline: none;
+}
+.address-block .address-block-header-maplink a:hover {
+  border-bottom: 1px solid transparent;
 }
 .address-block .address-block-form {
   width: 817px;
@@ -1613,6 +1653,7 @@ footer #footer-copyright #author a span {
 .nav-content .nav-content-item-active a {
   color: #4d4d4d;
   text-decoration: none;
+  cursor: default;
 }
 .nav-content .nav-content-item-active:first-child a {
   border-left: 2px solid #ebeaea;
@@ -2264,6 +2305,32 @@ footer #footer-copyright #author a span {
 }
 .content .table-item tr:hover td:last-child {
   border-right: 1px solid #dc7300;
+}
+.content .table-item tr:hover td:nth-child(7) {
+  color: white;
+  background-color: #dc7300;
+  position: relative;
+}
+.content .table-item tr:hover td:nth-child(7) p {
+  position: relative;
+  top: -10px;
+}
+.content .table-item tr:hover td:nth-child(7) .add-to-cart {
+  display: block;
+  font-size: 11.5px;
+  font-family: 'HelveticaSemiBold';
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  background-color: #c36600;
+  width: 100%;
+  height: 10px;
+  padding: 13px 0px;
+  transform: translateY(0);
+}
+.content .table-item tr:hover td:nth-child(7) .add-to-cart a {
+  color: white;
+  border-bottom: none;
 }
 .content .table-item th {
   font-family: HelveticaLight;
@@ -3736,4 +3803,10 @@ input[type='checkbox'],
 a,
 label {
   cursor: pointer;
+}
+.product-img {
+  padding: 0 !important;
+}
+.product-img:before {
+  display: none;
 }

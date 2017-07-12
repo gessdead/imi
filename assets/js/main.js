@@ -76,10 +76,10 @@
                 field_inp = $('.js-search-box input');
             if (!($(this).hasClass('open'))) {
                 $(this).addClass('open');
-                $(".search-box").show("slow"),
-                    field.animate({'opacity': '1'}, 50, function () {
-                        field_inp.focus();
-                    });
+                $(".search-box").show("slow");
+                field.animate({'opacity': '1'}, 50, function () {
+                    field_inp.focus();
+                });
             } else {
                 if (field_inp.val() === '') {
                     $(this).removeClass('open');
@@ -88,6 +88,11 @@
                     $('#search-form').submit();
                 }
             }
+        });
+
+        $('#search').on('click', function() {
+            var field = $('.js-search-box');
+            var field_inp = $('.js-search-box input');
         });
 
         var getHoverObj = function (e) {
@@ -162,8 +167,7 @@
             $cardPics.on('click', function() {
                 $cardPics.removeClass('active');
                 $(this).addClass('active');
-                console.log('dddd');
-            })
+            });
 
         })($('.slider-child-image .slider-main-item'));
 
@@ -184,8 +188,6 @@
                 console.log($head);
                 console.log($childs);
             });
-
-
         })($('.table-lk table'))
     });
 
